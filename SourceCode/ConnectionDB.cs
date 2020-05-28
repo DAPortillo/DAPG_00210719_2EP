@@ -3,10 +3,10 @@ using Npgsql;
 
 namespace SourceCode
 {
-    public class ConnectionDB
+    public static class ConnectionDB
     {
          private static string host = "127.0.0.1",
-             database = "PreSegundoParcial",
+             database = "Parcial2",
              userId = "postgres",
              password = "uca";
                                                  

@@ -29,3 +29,12 @@ C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.csproj.Gene
 C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.csproj.CopyComplete
 C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.exe
 C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.pdb
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.ChangePassword.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Form1.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.AfterLogin.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Direcciones.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Negocios.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Ordenar.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.OrderHistory.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Productos.resources
+C:\Users\porti\Desktop\POO\Parcial02\SourceCode\obj\Debug\SourceCode.Usuarios.resources
